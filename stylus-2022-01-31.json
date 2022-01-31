@@ -100,5 +100,24 @@
     "_id": "fbd66c11-099f-4250-b3d5-1dc71e81661f",
     "_rev": 1643598893956,
     "id": 1
+  },
+  {
+    "enabled": true,
+    "updateUrl": null,
+    "url": null,
+    "installDate": 1643643572140,
+    "name": "docs.google.com",
+    "sections": [
+      {
+        "code": "#docs-editor {\n    background-color: white !important;\n}\n\n.kix-paginateddocumentplugin.kix-paginateddocumentplugin-compact-mode {\n    box-shadow: none;\n}\n\n.navigation-widget {\n    border-right: 1px solid #ddd;\n}\n\n.kix-page-compact::before {\n    border: none;\n}\n\n.left-sidebar-container {\n    overflow: hidden;\n}\n\n.docs-gm-sidebars .navigation-widget {\n    margin-left: 0;\n}\n\n.docs-gm-sidebars .navigation-widget-hat-title {\n    font-family: Roboto !important;\n}\n\n.navigation-item {\n    padding: 0 12px;\n}\n\n.navigation-widget-hat {\n    display: none;\n}\n\n.kix-document-top-shadow,\n#spellGrammarCheckButton,\n#printButton,\n#undoButton,\n#redoButton,\n#insertLinkButton,\n#clearFormattingButton,\n#clearFormattingSeparator {\n    display: none;\n}\n\n/*\n.navigation-widget-hat,\n.left-sidebar-container {\n    border: none;\n}\n*/",
+        "domains": [
+          "docs.google.com/documentde"
+        ]
+      }
+    ],
+    "updateDate": 1643643572140,
+    "_id": "3b2242de-9b5e-4a62-a5b9-84d015295739",
+    "_rev": 1643643572140,
+    "id": 2
   }
 ]
